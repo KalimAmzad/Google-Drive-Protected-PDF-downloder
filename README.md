@@ -6,7 +6,7 @@ Download PDF files in case of google drive view only share or protected files sh
 
 - Slowly scroll down the PDF till the last
 - Inspect that google drive page and go to the console option
-- Past the following code to the console
+- Paste the following code snippets to the console
 
 
 ```javascript
