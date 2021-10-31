@@ -9,7 +9,7 @@ Download PDF files in case of google drive view only share or protected files sh
 - Past the following code to the console
 
 
-```
+```javascript
 let jspdf = document.createElement("script");
 jspdf.onload = function () {
     let pdf = new jsPDF();
